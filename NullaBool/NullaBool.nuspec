@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NullaBool</id>
+    <version>$version$</version>
+    <description>NullaBool: the absolute worst idea you will ever see. Nobody needs this, but everybody deserves it.</description>
+    <authors>Matt Perkins</authors>
+  </metadata>
+</package>
