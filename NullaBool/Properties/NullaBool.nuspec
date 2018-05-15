@@ -9,4 +9,7 @@
     <projectUrl>https://github.com/mrperki/NullaBool</projectUrl>
     <tags>null bool boolean pumpkinspice devops terrible badidea</tags>
   </metadata>
+  <files>
+    <file src="NullaBool\bin\$configuration$\NullaBool.dll" target="lib\net461\" />
+  </files>
 </package>
