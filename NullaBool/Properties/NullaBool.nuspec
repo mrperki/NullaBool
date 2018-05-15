@@ -5,5 +5,8 @@
     <version>$version$</version>
     <description>NullaBool: the absolute worst idea you will ever see. Nobody needs this, but everybody deserves it.</description>
     <authors>Matt Perkins</authors>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/mrperki/NullaBool</projectUrl>
+    <tags>null bool boolean pumpkinspice devops terrible badidea</tags>
   </metadata>
 </package>
