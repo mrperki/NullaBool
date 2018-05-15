@@ -21,4 +21,4 @@ mkdir Build
 mkdir Build\lib
 mkdir Build\lib\net461
 
-%nuget% pack "NullaBool.nuspec" -NoPackageAnalysis -verbosity detailed -o Build -Version %version% -p Configuration="%config%"
+%nuget% pack "NullaBool\NullaBool.nuspec" -NoPackageAnalysis -verbosity detailed -o Build -Version %version% -p Configuration="%config%"
