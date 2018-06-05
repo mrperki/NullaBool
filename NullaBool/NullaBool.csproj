@@ -46,6 +46,7 @@
     <Compile Include="NullaBool.cs" />
     <Compile Include="NullaBoolException.cs" />
     <Compile Include="NullaBoolExtensions.cs" />
+    <Compile Include="NullaBoolExtremePrivacyShield.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
