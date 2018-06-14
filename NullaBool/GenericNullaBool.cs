@@ -51,6 +51,8 @@
         public NullaBool(T obj, bool? set) : base(set)
         {
             MagicItem = obj;
+
+            NullMagic();
         }
 
         /// <summary>
