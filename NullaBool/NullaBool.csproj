@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenericNullaBool.cs" />
     <Compile Include="NullaBool.cs" />
     <Compile Include="NullaBoolException.cs" />
     <Compile Include="NullaBoolExtensions.cs" />

@@ -5,7 +5,7 @@ namespace NullaBool
     /// <summary>
     /// NullaBool is terrible and you shouldn't use it for any reason whatsoever.
     /// </summary>
-    public sealed class NullaBool : IComparable
+    public class NullaBool : IComparable
     {
         enum NullaBoolValue
         {
